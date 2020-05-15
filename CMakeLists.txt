@@ -202,6 +202,7 @@ set(COMPONENT_ADD_INCLUDEDIRS
   libraries/WiFiClientSecure/src
   libraries/WiFi/src
   libraries/Wire/src
+  libraries/OpenKB
   )
 
 set(COMPONENT_PRIV_INCLUDEDIRS cores/esp32/libb64)
